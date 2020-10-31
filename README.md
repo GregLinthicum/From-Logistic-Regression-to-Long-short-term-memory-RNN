@@ -28,8 +28,9 @@ Unsupervised Learning
 
 
 
-Main Application
-Supervider Learning ( Discriminative )
+Application
+
+Supervised Learning ( Discriminative )
 Typical discriminative models include logistic regression (LR), support vector machines (SVM), conditional random fields (CRFs) (specified over an undirected graph), decision trees, neural networks.
     
     Artificial NeuralNetworks ( ANN )
