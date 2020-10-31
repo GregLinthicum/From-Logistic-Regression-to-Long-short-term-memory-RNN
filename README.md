@@ -15,14 +15,41 @@ Unsupervised Learning
     Restricted Boltzman Machines (RBM)
     Deep Boltzman Machines (DBM)
     Deep Believe Networks (DBN)
-    AutoEncoders (A
+    Auto-Encoders (AE)
+        Sparse Auto-Encoder (SAE)
+        Stacked Auto-Encoder (SAE)
+        Stacked Sparse Auto-Encoder (SSAE)
 
 
 
 
 
 Main Application
+Supervider Learning
+    
+    Artificial NeuralNetworks ( ANN )
+    
+    Multilayer Perceptrons (MLPs)
+   
+    Convolutional Neural Networks (CNNs)
+   
+    Recurrent Neural Networks (RNNs)
+    
+    Long short-term memory (LSTM) 
+    
+    
+Unsupervised Learning
+    
+    Self-Organizing Maps (SOM)
+   
+    Restricted Boltzman Machines (RBM)
+    
+    Deep Boltzman Machines (DBM)
+    
+    Deep Believe Networks (DBN)
+    Difference between Deep Belief and Deep Boltzman is that Deep Boltzman is bidirectional on every level.
+    
+    AutoEncoders (A
 
-
-https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64
+    https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64
 
