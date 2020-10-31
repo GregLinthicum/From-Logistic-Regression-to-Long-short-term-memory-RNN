@@ -3,7 +3,7 @@ As the technology emerges from the state where the machine did not even get the 
 
 Taxonomy
 
-Supervider Learning
+Supervised Learning
 
     Artificial NeuralNetworks ( ANN )
     Multilayer Perceptrons (MLPs)
@@ -22,13 +22,15 @@ Unsupervised Learning
         Sparse Auto-Encoder (SAE)
         Stacked Auto-Encoder (SAE)
         Stacked Sparse Auto-Encoder (SSAE)
+        Variational Autoencoder (VAE)
 
 
 
 
 
 Main Application
-Supervider Learning
+Supervider Learning ( Discriminative )
+Typical discriminative models include logistic regression (LR), support vector machines (SVM), conditional random fields (CRFs) (specified over an undirected graph), decision trees, neural networks.
     
     Artificial NeuralNetworks ( ANN )
     Used mainly for Regression and Classification
@@ -45,12 +47,14 @@ Supervider Learning
     Long short-term memory (LSTM) 
     
     
-Unsupervised Learning
+Unsupervised Learning ( Generative ) 
+Typical generative model approaches include naive Bayes classifiers, Gaussian mixture models, variational autoencoders.
     
     Self-Organizing Maps (SOM)
-    Used mainly for Feature Detection
+    Used mainly for Feature Detection.
    
     Restricted Boltzman Machines (RBM)
+    Usedmainly for dimensionality reduction, classification, regression, collaborative filtering, feature learning, and topic modeling.
     
     Deep Boltzman Machines (DBM)
     Used Mainly for Recommendation Systems.
@@ -59,7 +63,6 @@ Unsupervised Learning
     Difference between Deep Belief and Deep Boltzman is that Deep Boltzman is bidirectional on every level.
     
     Auto-Encoders (AE)
-    Used Mainly for Recommendation Systems
-
+    Used Mainly for Recommendation Systems.
     https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64
 
