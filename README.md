@@ -31,12 +31,16 @@ Main Application
 Supervider Learning
     
     Artificial NeuralNetworks ( ANN )
+    Used mainly for Regression and Classification
     
     Multilayer Perceptrons (MLPs)
+    
    
     Convolutional Neural Networks (CNNs)
+    Used Mainly for Machine Vision
    
     Recurrent Neural Networks (RNNs)
+    Usedmainly for Time Series Anaalysis
     
     Long short-term memory (LSTM) 
     
@@ -44,15 +48,18 @@ Supervider Learning
 Unsupervised Learning
     
     Self-Organizing Maps (SOM)
+    Used mainly for Feature Detection
    
     Restricted Boltzman Machines (RBM)
     
     Deep Boltzman Machines (DBM)
+    Used Mainly for Recommendation Systems.
     
     Deep Believe Networks (DBN)
     Difference between Deep Belief and Deep Boltzman is that Deep Boltzman is bidirectional on every level.
     
-    AutoEncoders (A
+    Auto-Encoders (AE)
+    Used Mainly for Recommendation Systems
 
     https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64
 
