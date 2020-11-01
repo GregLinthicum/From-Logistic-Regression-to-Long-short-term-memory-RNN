@@ -70,6 +70,7 @@ Typical generative model approaches include naive Bayes classifiers, Gaussian mi
     Why this code modification? 
     
     Time is money. It is well established in Machine Learning to refer to the error between computed and expected value as a Cost. The error might convert to money in numerous applications that target classification or prediction. On the other hand, the time by which the model renders its verdict is not negligible from a cost perspective.
-    Please have a look at this Java implementation with a timestamp added and see yourself that the same cost ( as defined by the model) can be reached within substantially different times in a function of the number oh hidden nodes, activation function used, or a number of predefined iterations.
+    
+    Please have a look at this Java implementation of Neural Network by Deus Jeraldy with a timestamp added and see yourself that the same cost ( as defined by the model) can be reached within substantially different times in a function of the number oh hidden nodes, activation function used, or a number of predefined iterations.
     
 
