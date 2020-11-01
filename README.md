@@ -12,3 +12,4 @@ Uploaded as Java 8 (javaSE-1.8) project under Eclipse Version: 2020-09 (4.17.0) 
     and see yourself that the same Cost ( as defined by the ML/NN) can be reached within substantially different computing times 
     that as you change the number oh hidden nodes, activation function used, or a number of predefined iterations.
     
+https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki
