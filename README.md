@@ -17,4 +17,6 @@ and see yourself - by changing the number oh hidden nodes, activation function u
 that the same Cost (as defined by the ML/NN) can be reached within substantially different computing times. 
    
     
-[Greg's Wiki in making](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki)
+[IA Wiki in making](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki)
+
+[Benefits of Noise](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki/Noise-increases-precision!--A-proven-engineering-principle.---EXPLAINED#adding-the-noise-solves-serious-technical-limitation-a-low-precision)
