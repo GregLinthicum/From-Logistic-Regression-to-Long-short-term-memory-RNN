@@ -17,4 +17,4 @@ and see yourself - by changing the number oh hidden nodes, activation function u
 that the same Cost (as defined by the ML/NN) can be reached within substantially different computing times. 
    
     
-[Wiki](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki)
+[Greg's Wiki in making](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki)
