@@ -12,7 +12,7 @@ Time is money. It is well established in Machine Learning to refer to the error 
 The error might convert to money in numerous applications that target classification or prediction. 
 On the other hand, the time by which the model renders its verdict is not negligible from a cost perspective as well.
   
-Please have a look at "NeuralNetworks", a Java implementation of Neural Network by Deus Jeraldy with a timestamp added 
+Please download Eclipse project "NeuralNetworks", from the folder above. It is a Java implementation of Neural Network by Deus Jeraldy with a timestamp added 
 and see yourself - by changing the number oh hidden nodes, activation function used, or a number of predefined iterations -
 that the same Cost (as defined by the ML/NN) can be reached within substantially different computing times. 
    
