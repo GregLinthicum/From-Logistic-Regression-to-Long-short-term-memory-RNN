@@ -66,4 +66,10 @@ Typical generative model approaches include naive Bayes classifiers, Gaussian mi
     Auto-Encoders (AE)
     Used Mainly for Recommendation Systems.
     https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64
+    
+    Why this code modification? 
+    
+    Time is money. It is well established in Machine Learning to refer to the error between computed and expected value as a Cost. The error might convert to money in numerous applications that target classification or prediction. On the other hand the time by which the model renders its verdict is not negligable from cost perspective.
+    Please have a look at this Java implementation with timestamp added and see yourself that the same cost ( as defined by the model) can be reached within substancially different times in a function of the number oh hidden nodes, activation function ued,or number of predefined iterations.
+    
 
