@@ -8,8 +8,9 @@ Uploaded as Java 8 (javaSE-1.8) project under Eclipse Version: 2020-09 (4.17.0) 
   The error might convert to money in numerous applications that target classification or prediction. 
   On the other hand, the time by which the model renders its verdict is not negligible from a cost perspective as well.
   
-   Please have a look at "NeuralNetworks", a Java implementation of Neural Network by Deus Jeraldy with a timestamp added 
-    and see yourself that the same Cost ( as defined by the ML/NN) can be reached within substantially different computing times 
-    that as you change the number oh hidden nodes, activation function used, or a number of predefined iterations.
+  Please have a look at "NeuralNetworks", a Java implementation of Neural Network by Deus Jeraldy with a timestamp added 
+  and see yourself - by changing the number oh hidden nodes, activation function used, or a number of predefined iterations -
+  that the same Cost (as defined by the ML/NN) can be reached within substantially different computing times. 
+   
     
 https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki
