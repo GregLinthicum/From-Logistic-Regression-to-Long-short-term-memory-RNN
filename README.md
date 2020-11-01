@@ -5,7 +5,7 @@ Taxonomy
 
 Supervised Learning
 
-    Artificial NeuralNetworks ( ANN )
+    Artificial Neural Networks ( ANN )
     Multilayer Perceptrons (MLPs)
     Convolutional Neural Networks (CNNs)
     Recurrent Neural Networks (RNNs)
@@ -15,7 +15,7 @@ Supervised Learning
 Unsupervised Learning
 
     Self-Organizing Maps (SOM)
-    Restricted Boltzman Machines (RBM)
+    Restricted Boltzmann Machines (RBM)
     Deep Boltzman Machines (DBM)
     Deep Believe Networks (DBN)
     Auto-Encoders (AE)
@@ -33,7 +33,7 @@ Application
 Supervised Learning ( Discriminative )
 Typical discriminative models include logistic regression (LR), support vector machines (SVM), conditional random fields (CRFs) (specified over an undirected graph), decision trees, neural networks.
     
-    Artificial NeuralNetworks ( ANN )
+    Artificial Neural Networks ( ANN )
     Used mainly for Regression and Classification
     
     Multilayer Perceptrons (MLPs)
@@ -54,7 +54,7 @@ Typical generative model approaches include naive Bayes classifiers, Gaussian mi
     Self-Organizing Maps (SOM)
     Used mainly for Feature Detection.
    
-    Restricted Boltzman Machines (RBM)
+    Restricted Boltzmann Machines (RBM)
     Usedmainly for dimensionality reduction, classification, regression, collaborative filtering, feature learning, and topic modeling.
     
     Deep Boltzman Machines (DBM)
