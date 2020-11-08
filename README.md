@@ -22,3 +22,7 @@ that the same [Cost](https://en.wikipedia.org/wiki/Loss_function) (as defined by
 [Benefits of Noise](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki/Noise-increases-precision!--A-proven-engineering-principle.---EXPLAINED#adding-the-noise-solves-serious-technical-limitation-a-low-precision)
 
 [Screnshot Blank](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki/Screenshot-security)
+
+
+[Main](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN) 
+[Index](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki/Index)
