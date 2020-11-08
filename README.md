@@ -14,10 +14,7 @@ On the other hand, the time by which the model renders its verdict is not neglig
   
 Please download Eclipse project "NeuralNetworks", from the folder above. It is a Java implementation of Neural Network by Deus Jeraldy with a timestamp added 
 and see yourself - by changing the number oh hidden nodes, activation function used, or a number of predefined iterations -
-that the same [Cost](http://alumni.soe.ucsc.edu/~pkaragia/snippets.html) (as defined by the ML/NN) [.](http://reed.cs.depaul.edu/peterh/class/csc380/sessions/week10.html?print-pdf) [.](https://www.cs.utexas.edu/~bornholt/post/synthesis-explained.html) [](https://en.wikipedia.org/wiki/Loss_function)
-
-
-can be reached within substantially different computing times. 
+that the same [Cost](http://alumni.soe.ucsc.edu/~pkaragia/snippets.html) (as defined by the ML/NN) [.](http://reed.cs.depaul.edu/peterh/class/csc380/sessions/week10.html?print-pdf) [.](https://www.cs.utexas.edu/~bornholt/post/synthesis-explained.html) [](https://en.wikipedia.org/wiki/Loss_function) can be reached within substantially different computing times. 
    
     
 [IA Wiki in making](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki)
