@@ -1,7 +1,7 @@
 # From-Logistic-Regression-to-Long-short-term-memory-RNN
 As the technology emerges from the state where the machine did not even get the words you were uttering and responded in a choppy robotic way to the open space of the creativity unimaginable ever before some basic code snippets never age. 
 
-Natural Language Processing (NLP) advanced to another milestone by abandonig the long short-term memory (LSTM) RNNs and moving towards Transformers - such as Google's [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) [project](https://github.com/google-research/bert) or Amazon's [research](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) and [SageMaker](https://aws.amazon.com/blogs/machine-learning/fine-tuning-a-pytorch-bert-model-and-deploying-it-with-amazon-elastic-inference-on-amazon-sagemaker/) BERT implementation .
+Natural Language Processing (NLP) advanced to another milestone by abandonig the long short-term memory (LSTM) RNNs and moving towards Transformers - such as Google's [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) [project](https://github.com/google-research/bert) or Amazon [Research's](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) [SageMaker](https://aws.amazon.com/blogs/machine-learning/fine-tuning-a-pytorch-bert-model-and-deploying-it-with-amazon-elastic-inference-on-amazon-sagemaker/) BERT implementation .
 
 
 What is this code sniper though?
