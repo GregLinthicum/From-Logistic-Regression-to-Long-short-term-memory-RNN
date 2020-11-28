@@ -4,7 +4,7 @@ As the technology emerges from the state where the machine did not even get the 
 Natural Language Processing (NLP) advanced to another milestone by abandonig the long short-term memory (LSTM) RNNs and moving towards Transformers - such as Google's [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) [project](https://github.com/google-research/bert) or Amazon [Research's](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) [SageMaker](https://aws.amazon.com/blogs/machine-learning/fine-tuning-a-pytorch-bert-model-and-deploying-it-with-amazon-elastic-inference-on-amazon-sagemaker/) BERT implementation .
 
 
-What is this code sniper though?
+What is this code snipet though?
 
 Uploaded as Java 8 (javaSE-1.8) project under Eclipse Version: 2020-09 (4.17.0) Build id: 20200910-1200
  
