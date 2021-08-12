@@ -30,3 +30,5 @@ that the same [Cost](https://en.wikipedia.org/wiki/Loss_function) (as defined by
 [Index](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki/Index)
 
 [AI in Penetration testing](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki/AI-in-Security-and-Network-Testing)
+
+[AI in Game Testing](https://github.com/GregLinthicum/From-Logistic-Regression-to-Long-short-term-memory-RNN/wiki/Game-Testing)
