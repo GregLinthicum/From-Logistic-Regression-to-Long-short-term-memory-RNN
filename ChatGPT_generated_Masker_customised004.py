@@ -2,9 +2,6 @@
 # Greg
 # Hey dude,  generate python code that takes json file nested to an arbitrary depth and replaces  values with regex expressions - that the scriptgenerates itself  from the value being replaced =  except if the value is in a specific set of strings. Such values should remain as is.  And except for values of items with specific names contained in a  specific set of strings, say set "A". Such items should be given always the same value ( a string) apecified for each excluded name distinctly. And except for values of items with specific names contained in a  specific set of strings, say set "B". Such items should retain value as it is.
 #
-# ChatGPT:
-#
-
 import re
 import json
 
@@ -16,11 +13,10 @@ def construct_generic_regex_pattern(input_string):
     # Replace verbatim digits with \d and verbatim letters with [a-zA-Z] in the escaped string
     generic_pattern = re.sub(r'[A-Za-z\s]+', r'[a-zA-Z\\s]+', escaped_string)
     # Replace digits with [0-9]+ or \d+
-    generic_pattern = re.sub(r'[0-9]{9}', r'[0-9]{9}',generic_pattern )  # Replace digits with 9 digits
-    generic_pattern = re.sub(r'[0-9]{4}', r'[0-9]{4}', generic_pattern)  # Replace digits with 4 digits
-    generic_pattern = re.sub(r'[0-9]{3}', r'[0-9]{3}', generic_pattern)  # Replace digits with 4 digits
+    generic_pattern = re.sub(r'[0-9]{9}', r'[0-9]{9}', generic_pattern)  # Replace digits with 9 digits
+    generic_pattern = re.sub(r'[0-9]{4}', r'[0-9]{4}', generic_pattern) 
+    generic_pattern = re.sub(r'[0-9]{3}', r'[0-9]{3}', generic_pattern) 
     generic_pattern = re.sub(r'[0-9]{2}', r'[0-9]{2}', generic_pattern) 
-    
     
     # Constructing the regex pattern
     regex_pattern = f"^{generic_pattern}$"  # Matching the whole string
@@ -38,8 +34,6 @@ def replace_values_with_regex(obj, exclude_set_values, specific_items_A, specifi
             elif isinstance(value, str) and value not in exclude_set_values:
                 # Generate regex pattern based on the value being replaced
                 regex_pattern = re.escape(value)  # Escaping special characters
-                #regex = re.compile(regex_pattern)
-                #obj[key] = regex.pattern  # Using regex pattern instead of the original value
                 obj[key] = construct_generic_regex_pattern(regex_pattern)
             else:
                 obj[key] = replace_values_with_regex(value, exclude_set_values, specific_items_A, specific_items_B)
@@ -48,6 +42,7 @@ def replace_values_with_regex(obj, exclude_set_values, specific_items_A, specifi
         return [replace_values_with_regex(elem, exclude_set_values, specific_items_A, specific_items_B) for elem in obj]
     else:
         return obj
+
 
 # Read JSON file
 file_path = 'article_regex_demo.json'
