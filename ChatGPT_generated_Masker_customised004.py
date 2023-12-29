@@ -4,6 +4,10 @@
 #
 # ChatGPT:
 #
+
+import re
+import json
+
 def construct_generic_regex_pattern(input_string):
     # Escape special characters in the input string to create a valid regex pattern
     escaped_string = re.escape(input_string)
@@ -23,8 +27,6 @@ def construct_generic_regex_pattern(input_string):
     
     return regex_pattern
 
-import re
-import json
 
 def replace_values_with_regex(obj, exclude_set_values, specific_items_A, specific_items_B):
     if isinstance(obj, dict):
