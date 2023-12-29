@@ -2,7 +2,8 @@
 # Greg
 # Hey dude,  generate python code that takes json file nested to an arbitrary depth and replaces  values with regex expressions - that the scriptgenerates itself  from the value being replaced =  except if the value is in a specific set of strings. Such values should remain as is.  And except for values of items with specific names contained in a  specific set of strings, say set "A". Such items should be given always the same value ( a string) apecified for each excluded name distinctly. And except for values of items with specific names contained in a  specific set of strings, say set "B". Such items should retain value as it is.
 #
-
+# ChatGPT:
+#
 def construct_generic_regex_pattern(input_string):
     # Escape special characters in the input string to create a valid regex pattern
     escaped_string = re.escape(input_string)
